@@ -279,7 +279,7 @@ console/use_cwd = True
 console/use_fixed_directory = False
 startup/use_fixed_directory = False
 init_workdir = None
-history = ['C:\\Users\\KIIT\\.spyder-py3', 'C:\\Users\\KIIT']
+history = ['C:\\Users\\KIIT', 'C:\\Users\\KIIT\\.spyder-py3']
 workdir = None
 
 [tours]
